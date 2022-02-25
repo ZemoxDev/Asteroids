@@ -1,6 +1,6 @@
 # Asteroids
 
-Simple Web Page using the Nasa Rest API to get Asteroids that in a certain time span that you define, came close to earth in the astronomical sense.
+A Simple Web Page using the Nasa Rest API to get Asteroids that in a certain time span that you define, came close to earth in the astronomical sense.
 It also allows you to look up the Nasa Photo of the day, of any day you choose.
 
 https://asteroids.enzominkoley.com/
